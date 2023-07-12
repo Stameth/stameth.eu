@@ -11,11 +11,14 @@
     "css-minimizer-webpack-plugin": "^5.0.1",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
-    "postcss-hexrgba": "^2.1.0"
+    "postcss-hexrgba": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
     "autoprefixer": "^10.4.14",
     "babel-loader": "^9.1.2",
     "css-loader": "^6.8.1",
